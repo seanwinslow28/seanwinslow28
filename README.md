@@ -15,7 +15,7 @@ I build at the seam where creative work meets autonomous systems — I design th
 - **[anima](https://github.com/seanwinslow28/anima)** — a 2D-animation pipeline run by a human and a fleet of agents. Ten phases, a critic stack, a human gate at every taste call.
 - **[code-brain](https://github.com/seanwinslow28/code-brain)** — my command center: 100+ skills and 9 autonomous agents running my second brain on a schedule.
 - **[intent-engineering-mcp](https://github.com/seanwinslow28/sw-mcp-intent-engineering)** — an MCP server that tells agents to act with intent.
-- **[VoicePrint]((https://github.com/seanwinslow28/voiceprint.git))** — the first project in my "Raising Claude" series where the main goal is to have the machine's think like me.
+- **[VoicePrint]((https://github.com/seanwinslow28/voiceprint))** — the first project in my "Raising Claude" series where the main goal is to have the machine's think like me.
 
 ## How I work
 
